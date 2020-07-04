@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d3dbc2d-f506-424b-b979-c6d010ac7b97" name="Default Changelist" comment="" />
+    <list default="true" id="8d3dbc2d-f506-424b-b979-c6d010ac7b97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Week02/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/NOTE.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -83,7 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1591786009330</updated>
       <workItem from="1591786013479" duration="3652000" />
-      <workItem from="1592088943033" duration="3650000" />
+      <workItem from="1592088943033" duration="6378000" />
+      <workItem from="1592984438262" duration="4657000" />
+      <workItem from="1593649673201" duration="11250000" />
     </task>
     <servers />
   </component>
@@ -95,13 +99,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="317" y="37" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1591798810967" />
+    <state x="420" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593824304037">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1593824304037" />
     <state x="548" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591786148399">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="548" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900/1440.0.2560.1440@0.0.1440.900" timestamp="1591786148399" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1592834259322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592834259321" />
     <state x="114" y="150" key="new project wizard" timestamp="1591798728781">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="114" y="150" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1591798728781" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592834680133">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592834680133" />
   </component>
 </project>
